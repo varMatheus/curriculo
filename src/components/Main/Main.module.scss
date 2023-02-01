@@ -1,0 +1,40 @@
+@import "./variaveis.scss";
+
+.container {
+  width: fit-content;
+  height: auto;
+  padding-top: 2rem;
+  justify-content: flex-start;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: .5rem;
+
+  &__titulo {
+    color: $roxo;
+    font-family: $fonte-padrao;
+    margin: 0;
+    text-shadow: 2px 2px 2px $azul-escuro;
+    font-size: 4rem;
+    width: fit-content;
+  }
+
+  &__sobre {
+    color: $roxo;
+    font-family: $fonte-padrao;
+    margin: 0;
+    text-shadow: 2px 2px 2px $azul-escuro;
+    font-size: 3rem;
+    width: fit-content;
+  }
+
+  &__texto {
+    max-width: calc((100vw / 2) + 2em);
+    font-size: 1.8rem;
+    color: $roxo;
+    font-family: $fonte-padrao;
+    margin: 0;
+    text-shadow: 2px 2px 2px $azul-escuro;
+  }
+
+}

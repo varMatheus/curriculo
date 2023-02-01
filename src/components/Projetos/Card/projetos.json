@@ -1,0 +1,30 @@
+[
+  {
+    "titulo": "Alura Books",
+    "img": "",
+    "url": "https://alura-books-javascript-para-web.vercel.app",
+    "tecs": "HTML || CSS || JAVASCRIPT",
+    "id": 1
+  },
+  {
+    "titulo": "Culturama",
+    "img": "",
+    "url": "https://alura-culturama.vercel.app",
+    "tecs": "HTML || CSS",
+    "id": 2
+  },
+  {
+    "titulo": "Validando formulários",
+    "img": "",
+    "url": "https://validando-formularios-web-com-javascript.vercel.app/index.html",
+    "tecs": "HTML || CSS || JAVASCRIPT",
+    "id": 3
+  },
+  {
+    "titulo": "Amigo secreto",
+    "img": "",
+    "url": "https://amigo-secreto-fawn.vercel.app",
+    "tecs": "REACT || JEST",
+    "id": 3
+  }
+]

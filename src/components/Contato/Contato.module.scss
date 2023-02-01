@@ -1,0 +1,10 @@
+@import "./variaveis.scss";
+
+.container {
+  display: flex;
+  align-items: center;
+  font-family: $fonte-padrao;
+  font-size: 1.8rem;
+  color: $roxo;
+  text-shadow: 2px 2px 2px $azul-escuro;
+}

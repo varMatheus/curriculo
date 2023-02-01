@@ -1,0 +1,15 @@
+@import "./variaveis";
+@font-face {
+  font-family: 'Blackmore';
+  src: url(../src/assets/FontBlackmore/Blackmore-mLogv.ttf) format(truetype);
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: $cinza-claro;
+  overflow-x: hidden;
+}
