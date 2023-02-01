@@ -1,30 +1,34 @@
 [
   {
     "titulo": "Alura Books",
-    "img": "",
+    "img": "/imgs/aluraBooks",
     "url": "https://alura-books-javascript-para-web.vercel.app",
     "tecs": "HTML || CSS || JAVASCRIPT",
-    "id": 1
+    "id": 1,
+    "descricao": "Projeto realizado durante a formação Javascript para a web da Alura. Este projeto visou o aprendizado de Javascript orientado a objeto, tem diversas funcionalidades feitas inteiramente com Javascript."
   },
   {
     "titulo": "Culturama",
-    "img": "",
+    "img": "/imgs/culturama",
     "url": "https://alura-culturama.vercel.app",
     "tecs": "HTML || CSS",
-    "id": 2
+    "id": 2,
+    "descricao": "Projeto realizado na formação CSS: Estilos da Alura. Esse projeto foi desenvolvido com didaticas de flex-box e grid-area."
   },
   {
     "titulo": "Validando formulários",
-    "img": "",
+    "img": "/imgs/validandoFormularios",
     "url": "https://validando-formularios-web-com-javascript.vercel.app/index.html",
     "tecs": "HTML || CSS || JAVASCRIPT",
-    "id": 3
+    "id": 3,
+    "descricao": "Projeto realizado durante a formação Javascript para a web da Alura. O projeto focou no aprendizado de validação de formulário e tratamento de erros provenientes."
   },
   {
     "titulo": "Amigo secreto",
-    "img": "",
+    "img": "/imgs/amigoSecreto",
     "url": "https://amigo-secreto-fawn.vercel.app",
     "tecs": "REACT || JEST",
-    "id": 3
+    "id": 4,
+    "descricao": "Este projeto foi feito durante a formação de React com Typescript da Alura. Essa aplicação visava o aprendizado da feramenta Jest e a introdução a testes unitários de componentes React."
   }
 ]

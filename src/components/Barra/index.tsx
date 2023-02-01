@@ -18,8 +18,8 @@ export default function Barra() {
         [styles.nav]:true,
         [styles.nav__ativa]: troca ? true : false,
       })}>
-        {lista.map(item => (
-          <a href={item.url} className={styles.nav__item}>
+        {lista.map((item, index) => (
+          <a href={item.url} className={styles.nav__item} key={index}>
             {item.nome}
           </a>
         ))}
